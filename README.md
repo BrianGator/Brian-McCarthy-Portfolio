@@ -2,17 +2,18 @@
 
 **Written by Brian McCarthy**
 
-This repository is the central index for Brian McCarthy's professional portfolio, including QA automation, business analyst, product manager, project manager, certifications, Credly badges, and software development repositories.
+Central portfolio index for Brian McCarthy's QA automation, Business Analyst, Product Manager, Project Manager, credentials, Credly badges, Accredible certifications, and software development repositories.
 
 ## Table of Contents
 
-- [Brian McCarthy's File Structure](#brian-mccarthys-file-structure)
+- [Portfolio Folder Structure](#portfolio-folder-structure)
 - [Portfolio Files by Track](#portfolio-files-by-track)
-- [GitHub Repositories and Technologies](#github-repositories-and-technologies)
+- [Automation Testing Repositories](#automation-testing-repositories)
+- [Repositories Grouped by Language / Technology](#repositories-grouped-by-language--technology)
 - [Credly Badges](#credly-badges)
-- [Accredible / Credential.net Certifications](#accredible--credentialnet-certifications)
+- [Accredible Certifications](#accredible-certifications)
 
-## Brian McCarthy's File Structure
+## Portfolio Folder Structure
 
 ```text
 Brian-McCarthy-Portfolio/
@@ -22,89 +23,146 @@ Brian-McCarthy-Portfolio/
 ├── Brian-McCarthy's-Project-Manager-Portfolio/
 ├── Brian-McCarthy's-QA-Portfolio/
 ├── Brian-McCarthy's-Certifications/
-│   └── README.md
 └── Brian-McCarthy's-Credly-Badges/
-    └── README.md
 ```
 
 ## Portfolio Files by Track
 
+Use each folder link as the live source of truth for uploaded artifacts.
+
 ### Business Analyst
 
-Files and artifacts should include BRDs, stakeholder analysis, requirements elicitation notes, process documentation, BPMN / swimlane artifacts, traceability matrices, Power BI analysis, and business process improvement documents.
+Folder: [Business Analyst Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Business-Analyst-Portfolio)
+
+Artifacts include BRDs, stakeholder analysis, requirements elicitation notes, BPMN / swimlane diagrams, traceability matrices, Power BI analysis, process documentation, and business process improvement work.
 
 ### Product Manager / Product Owner
 
-Files and artifacts should include product strategy, user stories, acceptance criteria, product backlog, sprint backlog, roadmap notes, product owner capstone work, definition of done, burnup charts, burndown charts, and Agile artifacts.
+Folder: [Product Manager Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Product-Manager-Portfolio)
+
+Artifacts include product strategy, user stories, acceptance criteria, backlog work, roadmap notes, sprint planning, definition of done, burnup charts, burndown charts, Kanban boards, and Agile product artifacts.
 
 ### Project Manager
 
-Files and artifacts should include project charters, stakeholder registers, RACI matrices, WBS documents, risk registers, network diagrams, project schedules, project management capstone work, PMP preparation artifacts, Scrum, and Agile artifacts.
+Folder: [Project Manager Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Project-Manager-Portfolio)
+
+Artifacts include project charters, stakeholder registers, RACI matrices, WBS documents, network diagrams, risk registers, schedules, Agile/Scrum artifacts, and project management capstone work.
 
 ### QA / Test Automation
 
-Files and artifacts should include Selenium, Playwright, Cypress, Cucumber, Appium, Postman, REST API testing, CI/CD testing, test plans, test cases, defects, screenshots, automation reports, and QA portfolio examples.
+Folder: [QA Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-QA-Portfolio)
 
-## GitHub Repositories and Technologies
+Artifacts include test plans, test cases, defect reports, Selenium, Playwright, Cypress, Cucumber, Appium, Postman, REST API testing, CI/CD testing, screenshots, and automation reports.
 
-Repository list source: public GitHub account `BrianGator`.
+## Automation Testing Repositories
 
-| Repository | Technologies / Portfolio Area |
-|---|---|
-| [BrianGator](https://github.com/BrianGator/BrianGator) | GitHub profile README, Markdown |
-| [Brian-McCarthy-Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio) | Portfolio hub, Markdown, career artifacts |
-| [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java) | Java, Selenium WebDriver, TestNG/JUnit |
-| [Python-PyTest-Scripting](https://github.com/BrianGator/Python-PyTest-Scripting) | Python, Pytest |
-| [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript) | TypeScript, Playwright, Node.js |
-| [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java) | Java, Selenium WebDriver |
-| [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript) | TypeScript, Playwright |
-| [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase) | Java, Selenium WebDriver |
-| [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase) | JavaScript, Cypress |
-| [Cucumber-Automation-Framework-w-Java-Showcase-Showcase](https://github.com/BrianGator/Cucumber-Automation-Framework-w-Java-Showcase-Showcase) | Java, Cucumber, Selenium, BDD |
-| [AI-Apply-w-Typescript-in-Google-AI-Studio](https://github.com/BrianGator/AI-Apply-w-Typescript-in-Google-AI-Studio) | TypeScript, Google AI Studio |
-| [PetCare-Scheduler-w-JavaScript-HTML5-CSS](https://github.com/BrianGator/PetCare-Scheduler-w-JavaScript-HTML5-CSS) | JavaScript, HTML5, CSS |
-| [PetCare-Scheduler-w-Java](https://github.com/BrianGator/PetCare-Scheduler-w-Java) | Java |
-| [Book-Review-Web-App-w-Node.JS-Express.JS](https://github.com/BrianGator/Book-Review-Web-App-w-Node.JS-Express.JS) | Node.js, Express.js, JavaScript |
-| [Emotion-Analytics-w-Python-Flask-AI](https://github.com/BrianGator/Emotion-Analytics-w-Python-Flask-AI) | Python, Flask, AI/NLP |
-| [AceVantage-AI-Interview-CoPilot](https://github.com/BrianGator/AceVantage-AI-Interview-CoPilot) | AI, interview assistant, web app |
-| [Product-Catalogue-Microservice-w-Python-REST-API](https://github.com/BrianGator/Product-Catalogue-Microservice-w-Python-REST-API) | Python, REST API, microservice |
-| [e-Plant-Shop-Web-App-w-JavaScript-React-Tests](https://github.com/BrianGator/e-Plant-Shop-Web-App-w-JavaScript-React-Tests) | JavaScript, React, tests |
-| [Travel-Website-w-Search-JavaScript-HTML-CSS-Tests](https://github.com/BrianGator/Travel-Website-w-Search-JavaScript-HTML-CSS-Tests) | JavaScript, HTML, CSS, tests |
-| [Media-Library-w-CS-.NET-ASPX-Tests](https://github.com/BrianGator/Media-Library-w-CS-.NET-ASPX-Tests) | C#, .NET, ASPX, tests |
-| [Calculator-Console-CS-.NET](https://github.com/BrianGator/Calculator-Console-CS-.NET) | C#, .NET console app |
-| [File-Processing-App-w-CS-.NET-Tests](https://github.com/BrianGator/File-Processing-App-w-CS-.NET-Tests) | C#, .NET, file processing, tests |
-| [CodeCraftHub-Learning-JS-REST-API](https://github.com/BrianGator/CodeCraftHub-Learning-JS-REST-API) | JavaScript, REST API |
-| [Brian-McCarthy-Tampa-FL-Credentials-Website](https://github.com/BrianGator/Brian-McCarthy-Tampa-FL-Credentials-Website) | Credentials website, HTML/CSS/JavaScript |
-| [ABC-Placement-Portfolio-w-JavaScript-CSS-HTML](https://github.com/BrianGator/ABC-Placement-Portfolio-w-JavaScript-CSS-HTML) | JavaScript, CSS, HTML |
-| [Interest-Calculator-JS-React-GitHub-Bash-Scripts](https://github.com/BrianGator/Interest-Calculator-JS-React-GitHub-Bash-Scripts) | JavaScript, React, Bash |
-| [Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker](https://github.com/BrianGator/Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker) | JavaScript, Docker, Kubernetes |
-| [CheckNBuy-Serverless-MicroServices-w-JavaScript](https://github.com/BrianGator/CheckNBuy-Serverless-MicroServices-w-JavaScript) | JavaScript, serverless, microservices |
-| [Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker](https://github.com/BrianGator/Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker) | JavaScript, Node.js, NoSQL, Docker |
-| [GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API](https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API) | MongoDB, JavaScript, React, REST API |
-| [Inventory-Management-Java-Spring-Boot-REST-API](https://github.com/BrianGator/Inventory-Management-Java-Spring-Boot-REST-API) | Java, Spring Boot, REST API |
-| [Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin](https://github.com/BrianGator/Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin) | Java, Kotlin, Android |
-| [iOS-SwiftUI-Recipe-App](https://github.com/BrianGator/iOS-SwiftUI-Recipe-App) | Swift, SwiftUI, iOS |
-| [Class-Test-Django-Python-SQL](https://github.com/BrianGator/Class-Test-Django-Python-SQL) | Python, Django, SQL |
-| [iOS-Android-Flutter-Time-Tracker-App](https://github.com/BrianGator/iOS-Android-Flutter-Time-Tracker-App) | Flutter, Dart, iOS, Android |
-| [Java-Database-Capstone](https://github.com/BrianGator/Java-Database-Capstone) | Java, SQL/database |
-| [Snack_Expo-Android-iOS-React-Native](https://github.com/BrianGator/Snack_Expo-Android-iOS-React-Native) | React Native, Expo, iOS, Android |
-| [CI-CD-Python](https://github.com/BrianGator/CI-CD-Python) | Python, CI/CD |
-| [Playwright-Automation-Python-Pytest-Showcase](https://github.com/BrianGator/Playwright-Automation-Python-Pytest-Showcase) | Python, Pytest, Playwright |
-| [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase) | C#, .NET, SpecFlow, Cucumber |
-| [Full-Stack-Car-Dealer-Capstone-Python-JS](https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS) | Python, JavaScript, Django, CI/CD |
-| [DevOps-Capstone-Workbook-CICD](https://github.com/BrianGator/DevOps-Capstone-Workbook-CICD) | DevOps, CI/CD, GitHub Actions/Tekton |
-| [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase) | JavaScript, Cypress |
-| [Selenium-Automation-Hero-Python-Showcase](https://github.com/BrianGator/Selenium-Automation-Hero-Python-Showcase) | Python, Selenium |
-| [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase) | TypeScript, Playwright |
-| [Selenium-Automation-Advanced-Frameworks-Java-Showcase](https://github.com/BrianGator/Selenium-Automation-Advanced-Frameworks-Java-Showcase) | Java, Selenium, TestNG, Maven |
-| [Appium-Selenium-Mobile-Automation-Showcase](https://github.com/BrianGator/Appium-Selenium-Mobile-Automation-Showcase) | Java, Appium, Selenium |
-| [Appium-Mobile-Automation-Java](https://github.com/BrianGator/Appium-Mobile-Automation-Java) | Java, Appium, TestNG |
-| [Rest-API-Automation-Ninja-Showcase](https://github.com/BrianGator/Rest-API-Automation-Ninja-Showcase) | REST API automation, Postman/Java/JavaScript |
-| [Microsoft-Python-Developer-Image-Resizer-Serverless](https://github.com/BrianGator/Microsoft-Python-Developer-Image-Resizer-Serverless) | Python, serverless |
-| [Google-Python-IT-Automation](https://github.com/BrianGator/Google-Python-IT-Automation) | Python, IT automation |
-| [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase) | Postman, REST API testing |
-| [iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter](https://github.com/BrianGator/iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter) | React Native, Flutter, iOS, Android |
-| [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide) | Java, Appium, Android |
+Repository group name: **automation**
+
+- [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java)
+- [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java)
+- [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase)
+- [Selenium-Automation-Hero-Python-Showcase](https://github.com/BrianGator/Selenium-Automation-Hero-Python-Showcase)
+- [Selenium-Automation-Advanced-Frameworks-Java-Showcase](https://github.com/BrianGator/Selenium-Automation-Advanced-Frameworks-Java-Showcase)
+- [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript)
+- [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript)
+- [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase)
+- [Playwright-Automation-Python-Pytest-Showcase](https://github.com/BrianGator/Playwright-Automation-Python-Pytest-Showcase)
+- [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase)
+- [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase)
+- [Cucumber-Automation-Framework-w-Java-Showcase-Showcase](https://github.com/BrianGator/Cucumber-Automation-Framework-w-Java-Showcase-Showcase)
+- [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase)
+- [Appium-Selenium-Mobile-Automation-Showcase](https://github.com/BrianGator/Appium-Selenium-Mobile-Automation-Showcase)
+- [Appium-Mobile-Automation-Java](https://github.com/BrianGator/Appium-Mobile-Automation-Java)
+- [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide)
+- [Rest-API-Automation-Ninja-Showcase](https://github.com/BrianGator/Rest-API-Automation-Ninja-Showcase)
+- [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase)
+- [Python-PyTest-Scripting](https://github.com/BrianGator/Python-PyTest-Scripting)
+- [CI-CD-Python](https://github.com/BrianGator/CI-CD-Python)
+- [DevOps-Capstone-Workbook-CICD](https://github.com/BrianGator/DevOps-Capstone-Workbook-CICD)
+
+## Repositories Grouped by Language / Technology
+
+### Java
+
+- Selenium-Test-Automation-w-Java
+- Selenium-Test-Automation2-w-Java
+- Selenium-WebDriver-Automation-w-Java-Ninja-Showcase
+- Cucumber-Automation-Framework-w-Java-Showcase-Showcase
+- Selenium-Automation-Advanced-Frameworks-Java-Showcase
+- Appium-Mobile-Automation-Java
+- Appium-Mobile-Automation-Java-Guide
+- PetCare-Scheduler-w-Java
+- Inventory-Management-Java-Spring-Boot-REST-API
+- Java-Database-Capstone
+
+### Python
+
+- Python-PyTest-Scripting
+- Emotion-Analytics-w-Python-Flask-AI
+- Product-Catalogue-Microservice-w-Python-REST-API
+- Class-Test-Django-Python-SQL
+- CI-CD-Python
+- Playwright-Automation-Python-Pytest-Showcase
+- Selenium-Automation-Hero-Python-Showcase
+- Microsoft-Python-Developer-Image-Resizer-Serverless
+- Google-Python-IT-Automation
+- Full-Stack-Car-Dealer-Capstone-Python-JS
+
+### JavaScript / TypeScript / Node / React
+
+- Playwright-Test-Automation-w-TypeScript
+- Playwright-Test-Automation-2-w-TypeScript
+- Playwright-Automation-TypeScript-Showcase
+- AI-Apply-w-Typescript-in-Google-AI-Studio
+- Cypress-Automation-Testing-w-Javascript-Showcase
+- Cypress-Automation-Testing-Hero-JavaScript-Showcase
+- Book-Review-Web-App-w-Node.JS-Express.JS
+- e-Plant-Shop-Web-App-w-JavaScript-React-Tests
+- Travel-Website-w-Search-JavaScript-HTML-CSS-Tests
+- CodeCraftHub-Learning-JS-REST-API
+- PetCare-Scheduler-w-JavaScript-HTML5-CSS
+- ABC-Placement-Portfolio-w-JavaScript-CSS-HTML
+- Interest-Calculator-JS-React-GitHub-Bash-Scripts
+- Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker
+- CheckNBuy-Serverless-MicroServices-w-JavaScript
+- Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker
+- GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API
+
+### C# / .NET
+
+- Media-Library-w-CS-.NET-ASPX-Tests
+- Calculator-Console-CS-.NET
+- File-Processing-App-w-CS-.NET-Tests
+- Cucumber-Automation-CSharp-NET-Specflow-Showcase
+
+### Mobile
+
+- Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin
+- iOS-SwiftUI-Recipe-App
+- iOS-Android-Flutter-Time-Tracker-App
+- Snack_Expo-Android-iOS-React-Native
+- iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter
+
+### Cloud / DevOps / CI-CD
+
+- Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker
+- Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker
+- CheckNBuy-Serverless-MicroServices-w-JavaScript
+- Microsoft-Python-Developer-Image-Resizer-Serverless
+- CI-CD-Python
+- DevOps-Capstone-Workbook-CICD
+
+### AI / Data / Product
+
+- AI-Apply-w-Typescript-in-Google-AI-Studio
+- Emotion-Analytics-w-Python-Flask-AI
+- AceVantage-AI-Interview-CoPilot
+
+### Portfolio / Credentials
+
+- BrianGator
+- Brian-McCarthy-Portfolio
+- Brian-McCarthy-Tampa-FL-Credentials-Website
 
 ## Credly Badges
 
@@ -112,35 +170,31 @@ Public Credly profile:
 
 - [Brian S. McCarthy Credly Badges](https://www.credly.com/users/brian-s-mccarthy/badges#credly)
 
-Known Credly badges / badge-ready credentials:
+Known Credly badges listed for this portfolio:
 
-- [IBM IT Project Manager Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [IBM Full-Stack JavaScript Developer Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [Microsoft Business Analyst Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [Microsoft Power BI Data Analyst Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [Microsoft AI Product Manager](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [Microsoft AI Project Manager](https://www.credly.com/users/brian-s-mccarthy/badges)
-- [Google People Management Essentials](https://www.credly.com/users/brian-s-mccarthy/badges)
+- IBM IT Project Manager Professional Certificate
+- IBM Full-Stack JavaScript Developer Professional Certificate
+- Microsoft Business Analyst Professional Certificate
+- Microsoft Power BI Data Analyst Professional Certificate
+- Microsoft AI Product Manager
+- Microsoft AI Project Manager
+- Google People Management Essentials
 
-Use the public Credly profile link as the current source of truth for newly issued or newly accepted badges.
+## Accredible Certifications
 
-## Accredible / Credential.net Certifications
-
-Public Accredible / Credential.net wallet:
+Public certification wallet:
 
 - [Brian McCarthy Credential.net Wallet](https://www.credential.net/profile/brian-mccarthy/wallet)
 
-Known certifications / certificates:
+Known certifications listed for this portfolio:
 
-- [IBM IT Project Manager Professional Certificate](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [IBM Full-Stack JavaScript Developer Professional Certificate](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Microsoft Business Analyst Professional Certificate](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Microsoft Power BI Data Analyst Professional Certificate](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Microsoft AI Product Manager](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Microsoft AI Project Manager](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Product Owner: Essential Skills and Tools for Innovation](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [PMP Exam Prep: Project Management Principles](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [PMP Exam Prep: Managing People with Power Skills](https://www.credential.net/profile/brian-mccarthy/wallet)
-- [Practice Exam for Scrum.org PSPO I Certification](https://www.credential.net/profile/brian-mccarthy/wallet)
-
-Use the public Credential.net wallet link as the current source of truth for newly issued certificates.
+- IBM IT Project Manager Professional Certificate
+- IBM Full-Stack JavaScript Developer Professional Certificate
+- Microsoft Business Analyst Professional Certificate
+- Microsoft Power BI Data Analyst Professional Certificate
+- Microsoft AI Product Manager
+- Microsoft AI Project Manager
+- Product Owner: Essential Skills and Tools for Innovation
+- PMP Exam Prep: Project Management Principles
+- PMP Exam Prep: Managing People with Power Skills
+- Practice Exam for Scrum.org PSPO I Certification
