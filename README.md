@@ -37,7 +37,7 @@ Central portfolio index for Brian McCarthy's QA automation, Business Analyst, Pr
 - [Portfolio Folder Structure](#portfolio-folder-structure)
 - [Portfolio Files by Track](#portfolio-files-by-track)
 - [Automation Testing Repositories](#automation-testing-repositories)
-- [Repositories Grouped by Language / Technology](#repositories-grouped-by-language--technology)
+- [Repositories Grouped by Language in Repository Name Titles](#repositories-grouped-by-language-in-repository-name-titles)
 - [Credly Badges](#credly-badges)
 - [Accredible Certifications](#accredible-certifications)
 
@@ -105,89 +105,107 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 | [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase) | Postman, REST API testing |
 | [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide) | Java, Appium, Android |
 
-## Repositories Grouped by Language / Technology
+## Repositories Grouped by Language in Repository Name Titles
 
-### Java
+### Java Repositories
 
-- Selenium-Test-Automation-w-Java
-- Selenium-Test-Automation2-w-Java
-- Selenium-WebDriver-Automation-w-Java-Ninja-Showcase
-- Cucumber-Automation-Framework-w-Java-Showcase-Showcase
-- Selenium-Automation-Advanced-Frameworks-Java-Showcase
-- Appium-Mobile-Automation-Java
-- Appium-Mobile-Automation-Java-Guide
-- PetCare-Scheduler-w-Java
-- Inventory-Management-Java-Spring-Boot-REST-API
-- Java-Database-Capstone
+- [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java)
+- [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java)
+- [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase)
+- [Cucumber-Automation-Framework-w-Java-Showcase-Showcase](https://github.com/BrianGator/Cucumber-Automation-Framework-w-Java-Showcase-Showcase)
+- [PetCare-Scheduler-w-Java](https://github.com/BrianGator/PetCare-Scheduler-w-Java)
+- [Inventory-Management-Java-Spring-Boot-REST-API](https://github.com/BrianGator/Inventory-Management-Java-Spring-Boot-REST-API)
+- [Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin](https://github.com/BrianGator/Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin)
+- [Java-Database-Capstone](https://github.com/BrianGator/Java-Database-Capstone)
+- [Selenium-Automation-Advanced-Frameworks-Java-Showcase](https://github.com/BrianGator/Selenium-Automation-Advanced-Frameworks-Java-Showcase)
+- [Appium-Mobile-Automation-Java](https://github.com/BrianGator/Appium-Mobile-Automation-Java)
+- [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide)
 
-### Python
+### Python Repositories
 
-- Python-PyTest-Scripting
-- Emotion-Analytics-w-Python-Flask-AI
-- Product-Catalogue-Microservice-w-Python-REST-API
-- Class-Test-Django-Python-SQL
-- CI-CD-Python
-- Playwright-Automation-Python-Pytest-Showcase
-- Selenium-Automation-Hero-Python-Showcase
-- Microsoft-Python-Developer-Image-Resizer-Serverless
-- Google-Python-IT-Automation
-- Full-Stack-Car-Dealer-Capstone-Python-JS
+- [Python-PyTest-Scripting](https://github.com/BrianGator/Python-PyTest-Scripting)
+- [Emotion-Analytics-w-Python-Flask-AI](https://github.com/BrianGator/Emotion-Analytics-w-Python-Flask-AI)
+- [Product-Catalogue-Microservice-w-Python-REST-API](https://github.com/BrianGator/Product-Catalogue-Microservice-w-Python-REST-API)
+- [Class-Test-Django-Python-SQL](https://github.com/BrianGator/Class-Test-Django-Python-SQL)
+- [CI-CD-Python](https://github.com/BrianGator/CI-CD-Python)
+- [Playwright-Automation-Python-Pytest-Showcase](https://github.com/BrianGator/Playwright-Automation-Python-Pytest-Showcase)
+- [Full-Stack-Car-Dealer-Capstone-Python-JS](https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS)
+- [Selenium-Automation-Hero-Python-Showcase](https://github.com/BrianGator/Selenium-Automation-Hero-Python-Showcase)
+- [Microsoft-Python-Developer-Image-Resizer-Serverless](https://github.com/BrianGator/Microsoft-Python-Developer-Image-Resizer-Serverless)
+- [Google-Python-IT-Automation](https://github.com/BrianGator/Google-Python-IT-Automation)
 
-### JavaScript / TypeScript / Node / React
+### TypeScript Repositories
 
-- Playwright-Test-Automation-w-TypeScript
-- Playwright-Test-Automation-2-w-TypeScript
-- Playwright-Automation-TypeScript-Showcase
-- AI-Apply-w-Typescript-in-Google-AI-Studio
-- Cypress-Automation-Testing-w-Javascript-Showcase
-- Cypress-Automation-Testing-Hero-JavaScript-Showcase
-- Book-Review-Web-App-w-Node.JS-Express.JS
-- e-Plant-Shop-Web-App-w-JavaScript-React-Tests
-- Travel-Website-w-Search-JavaScript-HTML-CSS-Tests
-- CodeCraftHub-Learning-JS-REST-API
-- PetCare-Scheduler-w-JavaScript-HTML5-CSS
-- ABC-Placement-Portfolio-w-JavaScript-CSS-HTML
-- Interest-Calculator-JS-React-GitHub-Bash-Scripts
-- Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker
-- CheckNBuy-Serverless-MicroServices-w-JavaScript
-- Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker
-- GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API
+- [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript)
+- [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript)
+- [AI-Apply-w-Typescript-in-Google-AI-Studio](https://github.com/BrianGator/AI-Apply-w-Typescript-in-Google-AI-Studio)
+- [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase)
 
-### C# / .NET
+### JavaScript / JS / Node / React Repositories
 
-- Media-Library-w-CS-.NET-ASPX-Tests
-- Calculator-Console-CS-.NET
-- File-Processing-App-w-CS-.NET-Tests
-- Cucumber-Automation-CSharp-NET-Specflow-Showcase
+- [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase)
+- [PetCare-Scheduler-w-JavaScript-HTML5-CSS](https://github.com/BrianGator/PetCare-Scheduler-w-JavaScript-HTML5-CSS)
+- [Book-Review-Web-App-w-Node.JS-Express.JS](https://github.com/BrianGator/Book-Review-Web-App-w-Node.JS-Express.JS)
+- [e-Plant-Shop-Web-App-w-JavaScript-React-Tests](https://github.com/BrianGator/e-Plant-Shop-Web-App-w-JavaScript-React-Tests)
+- [Travel-Website-w-Search-JavaScript-HTML-CSS-Tests](https://github.com/BrianGator/Travel-Website-w-Search-JavaScript-HTML-CSS-Tests)
+- [CodeCraftHub-Learning-JS-REST-API](https://github.com/BrianGator/CodeCraftHub-Learning-JS-REST-API)
+- [Brian-McCarthy-Tampa-FL-Credentials-Website](https://github.com/BrianGator/Brian-McCarthy-Tampa-FL-Credentials-Website)
+- [ABC-Placement-Portfolio-w-JavaScript-CSS-HTML](https://github.com/BrianGator/ABC-Placement-Portfolio-w-JavaScript-CSS-HTML)
+- [Interest-Calculator-JS-React-GitHub-Bash-Scripts](https://github.com/BrianGator/Interest-Calculator-JS-React-GitHub-Bash-Scripts)
+- [Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker](https://github.com/BrianGator/Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker)
+- [CheckNBuy-Serverless-MicroServices-w-JavaScript](https://github.com/BrianGator/CheckNBuy-Serverless-MicroServices-w-JavaScript)
+- [Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker](https://github.com/BrianGator/Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker)
+- [GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API](https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API)
+- [Full-Stack-Car-Dealer-Capstone-Python-JS](https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS)
+- [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase)
 
-### Mobile
+### C# / .NET Repositories
 
-- Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin
-- iOS-SwiftUI-Recipe-App
-- iOS-Android-Flutter-Time-Tracker-App
-- Snack_Expo-Android-iOS-React-Native
-- iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter
+- [Media-Library-w-CS-.NET-ASPX-Tests](https://github.com/BrianGator/Media-Library-w-CS-.NET-ASPX-Tests)
+- [Calculator-Console-CS-.NET](https://github.com/BrianGator/Calculator-Console-CS-.NET)
+- [File-Processing-App-w-CS-.NET-Tests](https://github.com/BrianGator/File-Processing-App-w-CS-.NET-Tests)
+- [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase)
 
-### Cloud / DevOps / CI-CD
+### Mobile / iOS / Android / Flutter / React Native Repositories
 
-- Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker
-- Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker
-- CheckNBuy-Serverless-MicroServices-w-JavaScript
-- Microsoft-Python-Developer-Image-Resizer-Serverless
-- CI-CD-Python
-- DevOps-Capstone-Workbook-CICD
+- [Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin](https://github.com/BrianGator/Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin)
+- [iOS-SwiftUI-Recipe-App](https://github.com/BrianGator/iOS-SwiftUI-Recipe-App)
+- [iOS-Android-Flutter-Time-Tracker-App](https://github.com/BrianGator/iOS-Android-Flutter-Time-Tracker-App)
+- [Snack_Expo-Android-iOS-React-Native](https://github.com/BrianGator/Snack_Expo-Android-iOS-React-Native)
+- [Appium-Selenium-Mobile-Automation-Showcase](https://github.com/BrianGator/Appium-Selenium-Mobile-Automation-Showcase)
+- [iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter](https://github.com/BrianGator/iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter)
 
-### AI / Data / Product
+### API / REST / Microservice Repositories
 
-- AI-Apply-w-Typescript-in-Google-AI-Studio
-- Emotion-Analytics-w-Python-Flask-AI
-- AceVantage-AI-Interview-CoPilot
+- [Product-Catalogue-Microservice-w-Python-REST-API](https://github.com/BrianGator/Product-Catalogue-Microservice-w-Python-REST-API)
+- [CodeCraftHub-Learning-JS-REST-API](https://github.com/BrianGator/CodeCraftHub-Learning-JS-REST-API)
+- [GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API](https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API)
+- [Inventory-Management-Java-Spring-Boot-REST-API](https://github.com/BrianGator/Inventory-Management-Java-Spring-Boot-REST-API)
+- [Rest-API-Automation-Ninja-Showcase](https://github.com/BrianGator/Rest-API-Automation-Ninja-Showcase)
+- [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase)
 
-### Portfolio / Credentials
+### Cloud / DevOps / Docker / Kubernetes / Serverless Repositories
 
-- BrianGator
-- Brian-McCarthy-Portfolio
-- Brian-McCarthy-Tampa-FL-Credentials-Website
+- [Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker](https://github.com/BrianGator/Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker)
+- [CheckNBuy-Serverless-MicroServices-w-JavaScript](https://github.com/BrianGator/CheckNBuy-Serverless-MicroServices-w-JavaScript)
+- [Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker](https://github.com/BrianGator/Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker)
+- [CI-CD-Python](https://github.com/BrianGator/CI-CD-Python)
+- [Full-Stack-Car-Dealer-Capstone-Python-JS](https://github.com/BrianGator/Full-Stack-Car-Dealer-Capstone-Python-JS)
+- [DevOps-Capstone-Workbook-CICD](https://github.com/BrianGator/DevOps-Capstone-Workbook-CICD)
+- [Microsoft-Python-Developer-Image-Resizer-Serverless](https://github.com/BrianGator/Microsoft-Python-Developer-Image-Resizer-Serverless)
+
+### AI Repositories
+
+- [AI-Apply-w-Typescript-in-Google-AI-Studio](https://github.com/BrianGator/AI-Apply-w-Typescript-in-Google-AI-Studio)
+- [Emotion-Analytics-w-Python-Flask-AI](https://github.com/BrianGator/Emotion-Analytics-w-Python-Flask-AI)
+- [AceVantage-AI-Interview-CoPilot](https://github.com/BrianGator/AceVantage-AI-Interview-CoPilot)
+
+### Portfolio / Credential Repositories
+
+- [BrianGator](https://github.com/BrianGator/BrianGator)
+- [Brian-McCarthy-Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio)
+- [Brian-McCarthy-Tampa-FL-Credentials-Website](https://github.com/BrianGator/Brian-McCarthy-Tampa-FL-Credentials-Website)
+- [ABC-Placement-Portfolio-w-JavaScript-CSS-HTML](https://github.com/BrianGator/ABC-Placement-Portfolio-w-JavaScript-CSS-HTML)
 
 ## Credly Badges
 
