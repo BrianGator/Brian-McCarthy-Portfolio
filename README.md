@@ -1,11 +1,7 @@
 # Brian McCarthy Portfolio
+![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![QA Automation](https://img.shields.io/badge/QA-Automation-success?style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-Brian%20McCarthy-blue?style=for-the-badge)
 
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![QA Automation](https://img.shields.io/badge/QA-Automation-success?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Brian%20McCarthy-blue?style=for-the-badge)
-
-**Written by Brian McCarthy**
-
+**Written by Brian McCarthy**  
 Central portfolio index for Brian McCarthy's QA automation, Business Analyst, Product Manager, Project Manager, credentials, Credly badges, Accredible certifications, and software development repositories.
 
 ## Table of Contents
