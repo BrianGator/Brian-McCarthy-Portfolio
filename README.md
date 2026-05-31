@@ -16,7 +16,7 @@ Central portfolio index for Brian McCarthy's QA automation, Business Analyst, Pr
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/BrianGator/BrianGator/main/assets/playwright-masks.svg" alt="Playwright" height="24" />
+  <img src="https://raw.githubusercontent.com/BrianGator/BrianGator/main/assets/playwright-masks.svg?v=6ad8a207" alt="Playwright" height="24" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -38,8 +38,7 @@ Central portfolio index for Brian McCarthy's QA automation, Business Analyst, Pr
 - [Portfolio Files by Track](#portfolio-files-by-track)
 - [Automation Testing Repositories](#automation-testing-repositories)
 - [Repositories Grouped by Language in Repository Name Titles](#repositories-grouped-by-language-in-repository-name-titles)
-- [Credly Badges](#credly-badges)
-- [Accredible Certifications](#accredible-certifications)
+- [Credly and Accredible Credentials](#credly-and-accredible-credentials)
 
 ## Portfolio Folder Structure
 
@@ -59,25 +58,21 @@ Brian-McCarthy-Portfolio/
 Use each folder link as the live source of truth for uploaded artifacts.
 
 ### Business Analyst
-
 Folder: [Business Analyst Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Business-Analyst-Portfolio)
 
 Artifacts include BRDs, stakeholder analysis, requirements elicitation notes, BPMN / swimlane diagrams, traceability matrices, Power BI analysis, process documentation, and business process improvement work.
 
 ### Product Manager / Product Owner
-
 Folder: [Product Manager Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Product-Manager-Portfolio)
 
 Artifacts include product strategy, user stories, acceptance criteria, backlog work, roadmap notes, sprint planning, definition of done, burnup charts, burndown charts, Kanban boards, and Agile product artifacts.
 
 ### Project Manager
-
 Folder: [Project Manager Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Project-Manager-Portfolio)
 
 Artifacts include project charters, stakeholder registers, RACI matrices, WBS documents, network diagrams, risk registers, schedules, Agile/Scrum artifacts, and project management capstone work.
 
 ### QA / Test Automation
-
 Folder: [QA Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-QA-Portfolio)
 
 Artifacts include test plans, test cases, defect reports, Selenium, Playwright, Cypress, Cucumber, Appium, Postman, REST API testing, CI/CD testing, screenshots, and automation reports.
@@ -108,7 +103,6 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 ## Repositories Grouped by Language in Repository Name Titles
 
 ### Java Repositories
-
 - [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java)
 - [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java)
 - [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase)
@@ -122,7 +116,6 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide)
 
 ### Python Repositories
-
 - [Python-PyTest-Scripting](https://github.com/BrianGator/Python-PyTest-Scripting)
 - [Emotion-Analytics-w-Python-Flask-AI](https://github.com/BrianGator/Emotion-Analytics-w-Python-Flask-AI)
 - [Product-Catalogue-Microservice-w-Python-REST-API](https://github.com/BrianGator/Product-Catalogue-Microservice-w-Python-REST-API)
@@ -135,14 +128,12 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [Google-Python-IT-Automation](https://github.com/BrianGator/Google-Python-IT-Automation)
 
 ### TypeScript Repositories
-
 - [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript)
 - [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript)
 - [AI-Apply-w-Typescript-in-Google-AI-Studio](https://github.com/BrianGator/AI-Apply-w-Typescript-in-Google-AI-Studio)
 - [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase)
 
 ### JavaScript / JS / Node / React Repositories
-
 - [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase)
 - [PetCare-Scheduler-w-JavaScript-HTML5-CSS](https://github.com/BrianGator/PetCare-Scheduler-w-JavaScript-HTML5-CSS)
 - [Book-Review-Web-App-w-Node.JS-Express.JS](https://github.com/BrianGator/Book-Review-Web-App-w-Node.JS-Express.JS)
@@ -160,14 +151,12 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase)
 
 ### C# / .NET Repositories
-
 - [Media-Library-w-CS-.NET-ASPX-Tests](https://github.com/BrianGator/Media-Library-w-CS-.NET-ASPX-Tests)
 - [Calculator-Console-CS-.NET](https://github.com/BrianGator/Calculator-Console-CS-.NET)
 - [File-Processing-App-w-CS-.NET-Tests](https://github.com/BrianGator/File-Processing-App-w-CS-.NET-Tests)
 - [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase)
 
 ### Mobile / iOS / Android / Flutter / React Native Repositories
-
 - [Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin](https://github.com/BrianGator/Fitness-Tracker-Android-Mobile-App-w-Java-Kotlin)
 - [iOS-SwiftUI-Recipe-App](https://github.com/BrianGator/iOS-SwiftUI-Recipe-App)
 - [iOS-Android-Flutter-Time-Tracker-App](https://github.com/BrianGator/iOS-Android-Flutter-Time-Tracker-App)
@@ -176,7 +165,6 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter](https://github.com/BrianGator/iOS-Android-Mobile-Mediation-Capstone-React-Native-Flutter)
 
 ### API / REST / Microservice Repositories
-
 - [Product-Catalogue-Microservice-w-Python-REST-API](https://github.com/BrianGator/Product-Catalogue-Microservice-w-Python-REST-API)
 - [CodeCraftHub-Learning-JS-REST-API](https://github.com/BrianGator/CodeCraftHub-Learning-JS-REST-API)
 - [GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API](https://github.com/BrianGator/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API)
@@ -185,7 +173,6 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase)
 
 ### Cloud / DevOps / Docker / Kubernetes / Serverless Repositories
-
 - [Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker](https://github.com/BrianGator/Cloud-Native-Guestbook-Full-Stack-JS-w-Kubernetes-Docker)
 - [CheckNBuy-Serverless-MicroServices-w-JavaScript](https://github.com/BrianGator/CheckNBuy-Serverless-MicroServices-w-JavaScript)
 - [Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker](https://github.com/BrianGator/Cloud-Native-Tax-Calculator-JS-Node-NoSQL-Docker)
@@ -195,49 +182,39 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 - [Microsoft-Python-Developer-Image-Resizer-Serverless](https://github.com/BrianGator/Microsoft-Python-Developer-Image-Resizer-Serverless)
 
 ### AI Repositories
-
 - [AI-Apply-w-Typescript-in-Google-AI-Studio](https://github.com/BrianGator/AI-Apply-w-Typescript-in-Google-AI-Studio)
 - [Emotion-Analytics-w-Python-Flask-AI](https://github.com/BrianGator/Emotion-Analytics-w-Python-Flask-AI)
 - [AceVantage-AI-Interview-CoPilot](https://github.com/BrianGator/AceVantage-AI-Interview-CoPilot)
 
 ### Portfolio / Credential Repositories
-
 - [BrianGator](https://github.com/BrianGator/BrianGator)
 - [Brian-McCarthy-Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio)
 - [Brian-McCarthy-Tampa-FL-Credentials-Website](https://github.com/BrianGator/Brian-McCarthy-Tampa-FL-Credentials-Website)
 - [ABC-Placement-Portfolio-w-JavaScript-CSS-HTML](https://github.com/BrianGator/ABC-Placement-Portfolio-w-JavaScript-CSS-HTML)
 
-## Credly Badges
+## Credly and Accredible Credentials
 
-Public Credly profile:
+Profile links: [Credly Badges](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Accredible / Credential.net Wallet](https://www.credential.net/profile/brian-mccarthy/wallet)
 
-- [Brian S. McCarthy Credly Badges](https://www.credly.com/users/brian-s-mccarthy/badges#credly)
-
-Known Credly badges listed for this portfolio:
-
-- IBM IT Project Manager Professional Certificate
-- IBM Full-Stack JavaScript Developer Professional Certificate
-- Microsoft Business Analyst Professional Certificate
-- Microsoft Power BI Data Analyst Professional Certificate
-- Microsoft AI Product Manager
-- Microsoft AI Project Manager
-- Google People Management Essentials
-
-## Accredible Certifications
-
-Public certification wallet:
-
-- [Brian McCarthy Credential.net Wallet](https://www.credential.net/profile/brian-mccarthy/wallet)
-
-Known certifications listed for this portfolio:
-
-- IBM IT Project Manager Professional Certificate
-- IBM Full-Stack JavaScript Developer Professional Certificate
-- Microsoft Business Analyst Professional Certificate
-- Microsoft Power BI Data Analyst Professional Certificate
-- Microsoft AI Product Manager
-- Microsoft AI Project Manager
-- Product Owner: Essential Skills and Tools for Innovation
-- PMP Exam Prep: Project Management Principles
-- PMP Exam Prep: Managing People with Power Skills
-- Practice Exam for Scrum.org PSPO I Certification
+| # | Top 20 Credly Badges | Top 20 Accredible / Credential.net Certifications |
+|---:|---|---|
+| 1 | [IBM Java Developer](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [REST & SOAP API Testing & Automation with Postman](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 2 | [IBM Full Stack Developer](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Cypress Automation Testing Framework](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 3 | [IBM AI Developer](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [IBM DevOps Engineer Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 4 | [IBM Project Manager](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [PMP Exam Prep Certification Training w 35 PDUs](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 5 | [IBM Product Owner](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Cucumber & SpecFlow C# .NET Test Automation Master](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 6 | [IBM Scrum Master](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Advanced ASP.NET Core MVC, Deployment & User Management](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 7 | [IBM Applied DevOps Engineer Professional](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [JavaScript Programming with React, Node & MongoDB](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 8 | [IBM Business Analyst](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Advanced C# Object-Oriented Programming](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 9 | [Microsoft Power BI Data Analyst](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Selenium WebDriver with Java - Zero To Hero](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 10 | [Microsoft Business Analyst Professional](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Cucumber Automation Framework Design & Behavior Driven Development](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 11 | [Microsoft AI Product Manager Professional](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [ServiceNow System Administrator Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 12 | [Microsoft Project Management Professional](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Certified Ethical Hacker (CEH)](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 13 | [Google IT Automation with Python](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Microsoft Software Development Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 14 | [Google Business Intelligence](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Penetration Testing Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 15 | [Google Agile Project Management Certification](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Javascript Foundations Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 16 | [Google People Management Essentials](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Cypress.io End-to-End JavaScript Testing](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 17 | [Certified in CyberSecurity (CC)](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Java Foundations Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 18 | [AWS Cloud Practitioner](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Python Programming Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 19 | [Agile Scrum Master](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Playwright Test Automation Master](https://www.credential.net/profile/brian-mccarthy/wallet) |
+| 20 | [Software QA Test Automation Engineering Professional](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Test Automation Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
