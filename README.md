@@ -84,29 +84,26 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 
 ## Automation Testing Repositories
 
-Repository group name: **automation**
-
-- [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java)
-- [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java)
-- [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase)
-- [Selenium-Automation-Hero-Python-Showcase](https://github.com/BrianGator/Selenium-Automation-Hero-Python-Showcase)
-- [Selenium-Automation-Advanced-Frameworks-Java-Showcase](https://github.com/BrianGator/Selenium-Automation-Advanced-Frameworks-Java-Showcase)
-- [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript)
-- [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript)
-- [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase)
-- [Playwright-Automation-Python-Pytest-Showcase](https://github.com/BrianGator/Playwright-Automation-Python-Pytest-Showcase)
-- [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase)
-- [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase)
-- [Cucumber-Automation-Framework-w-Java-Showcase-Showcase](https://github.com/BrianGator/Cucumber-Automation-Framework-w-Java-Showcase-Showcase)
-- [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase)
-- [Appium-Selenium-Mobile-Automation-Showcase](https://github.com/BrianGator/Appium-Selenium-Mobile-Automation-Showcase)
-- [Appium-Mobile-Automation-Java](https://github.com/BrianGator/Appium-Mobile-Automation-Java)
-- [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide)
-- [Rest-API-Automation-Ninja-Showcase](https://github.com/BrianGator/Rest-API-Automation-Ninja-Showcase)
-- [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase)
-- [Python-PyTest-Scripting](https://github.com/BrianGator/Python-PyTest-Scripting)
-- [CI-CD-Python](https://github.com/BrianGator/CI-CD-Python)
-- [DevOps-Capstone-Workbook-CICD](https://github.com/BrianGator/DevOps-Capstone-Workbook-CICD)
+| Repository | Technologies / Portfolio Area |
+|---|---|
+| [Selenium-Test-Automation-w-Java](https://github.com/BrianGator/Selenium-Test-Automation-w-Java) | Java, Selenium WebDriver, TestNG/JUnit |
+| [Playwright-Test-Automation-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-w-TypeScript) | TypeScript, Playwright, Node.js |
+| [Selenium-Test-Automation2-w-Java](https://github.com/BrianGator/Selenium-Test-Automation2-w-Java) | Java, Selenium WebDriver |
+| [Playwright-Test-Automation-2-w-TypeScript](https://github.com/BrianGator/Playwright-Test-Automation-2-w-TypeScript) | TypeScript, Playwright |
+| [Selenium-WebDriver-Automation-w-Java-Ninja-Showcase](https://github.com/BrianGator/Selenium-WebDriver-Automation-w-Java-Ninja-Showcase) | Java, Selenium WebDriver |
+| [Cypress-Automation-Testing-w-Javascript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-w-Javascript-Showcase) | JavaScript, Cypress |
+| [Cucumber-Automation-Framework-w-Java-Showcase-Showcase](https://github.com/BrianGator/Cucumber-Automation-Framework-w-Java-Showcase-Showcase) | Java, Cucumber, Selenium, BDD |
+| [Playwright-Automation-Python-Pytest-Showcase](https://github.com/BrianGator/Playwright-Automation-Python-Pytest-Showcase) | Python, Pytest, Playwright |
+| [Cucumber-Automation-CSharp-NET-Specflow-Showcase](https://github.com/BrianGator/Cucumber-Automation-CSharp-NET-Specflow-Showcase) | C#, .NET, SpecFlow, Cucumber |
+| [Cypress-Automation-Testing-Hero-JavaScript-Showcase](https://github.com/BrianGator/Cypress-Automation-Testing-Hero-JavaScript-Showcase) | JavaScript, Cypress |
+| [Selenium-Automation-Hero-Python-Showcase](https://github.com/BrianGator/Selenium-Automation-Hero-Python-Showcase) | Python, Selenium |
+| [Playwright-Automation-TypeScript-Showcase](https://github.com/BrianGator/Playwright-Automation-TypeScript-Showcase) | TypeScript, Playwright |
+| [Selenium-Automation-Advanced-Frameworks-Java-Showcase](https://github.com/BrianGator/Selenium-Automation-Advanced-Frameworks-Java-Showcase) | Java, Selenium, TestNG, Maven |
+| [Appium-Selenium-Mobile-Automation-Showcase](https://github.com/BrianGator/Appium-Selenium-Mobile-Automation-Showcase) | Java, Appium, Selenium |
+| [Appium-Mobile-Automation-Java](https://github.com/BrianGator/Appium-Mobile-Automation-Java) | Java, Appium, TestNG |
+| [Rest-API-Automation-Ninja-Showcase](https://github.com/BrianGator/Rest-API-Automation-Ninja-Showcase) | REST API automation, Postman/Java/JavaScript |
+| [Postman-Rest-API-Automation-Testing-Showcase](https://github.com/BrianGator/Postman-Rest-API-Automation-Testing-Showcase) | Postman, REST API testing |
+| [Appium-Mobile-Automation-Java-Guide](https://github.com/BrianGator/Appium-Mobile-Automation-Java-Guide) | Java, Appium, Android |
 
 ## Repositories Grouped by Language / Technology
 
