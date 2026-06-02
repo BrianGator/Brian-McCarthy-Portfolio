@@ -58,7 +58,7 @@ Brian-McCarthy-Portfolio/
 Use each folder link as the live source of truth for uploaded artifacts.
 
 ### Business Analyst
-Folder: [Business Analyst Portfolio](https://github.com/BrianGator/Brian-McCarthy-Portfolio/tree/main/Brian-McCarthy's-Business-Analyst-Portfolio)
+Folder: [Business Analyst Portfolio](https://github.com/BrianGator/Brian-McCarthy's-Business-Analyst-Portfolio)
 
 Artifacts include BRDs, stakeholder analysis, requirements elicitation notes, BPMN / swimlane diagrams, traceability matrices, Power BI analysis, process documentation, and business process improvement work.
 
@@ -196,7 +196,7 @@ Artifacts include test plans, test cases, defect reports, Selenium, Playwright, 
 
 Profile links: [Credly Badges](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Accredible / Credential.net Wallet](https://www.credential.net/profile/brian-mccarthy/wallet)
 
-| # | Top 30 Credly Badges | Top 30 Accredible / Credential.net Certifications |
+| # | Top 20 Credly Badges | Top 20 Accredible / Credential.net Certifications |
 |---:|---|---|
 | 1 | [Microsoft Project Management Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Master Lean Six Sigma & AI-Driven Quality for Professionals](https://www.credential.net/profile/brian-mccarthy/wallet) |
 | 2 | [IBM IT Project Manager Professional Certificate](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Microsoft Python Development Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
@@ -218,13 +218,3 @@ Profile links: [Credly Badges](https://www.credly.com/users/brian-s-mccarthy/bad
 | 18 | [Microsoft Business Analyst Professional Certificate(v.1)](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Java Foundations Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
 | 19 | [Google Business Intelligence Professional Certificate(v.2)](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Python Programming Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
 | 20 | [Google People Management Essentials](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Playwright Test Automation Master](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 21 | [Java Programming Fundamentals Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Test Automation Professional](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 22 | [JavaScript Programming with React, Node & MongoDB Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Product Owner: Essential Skills and Tools for Innovation](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 23 | [Generative AI for Product Managers Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [PMP Exam Prep: Project Management Principles](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 24 | [Generative AI for Software Developers Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [PMP Exam Prep: Managing People with Power Skills](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 25 | [DevOps, Cloud, and Agile Foundations Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Practice Exam for Scrum.org PSPO I Certification](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 26 | [Introduction to Data Science Specialization (V2)](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Micro-Certification - Agile and Test Management](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 27 | [Generative AI for Project Managers Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Micro-Certification - Automated Test Framework](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 28 | [Security Analyst Fundamentals Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [IBM Z DevOps Testing Fundamentals](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 29 | [SEO Mastery: From Fundamentals to Gen AI and GEO Strategies Specialization](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Introduction to Test Driven Development](https://www.credential.net/profile/brian-mccarthy/wallet) |
-| 30 | [Software Testing, Deployment, and Maintenance Strategies](https://www.credly.com/users/brian-s-mccarthy/badges#credly) | [Google AI Professional Certificate](https://www.credential.net/profile/brian-mccarthy/wallet) |
